@@ -1,0 +1,99 @@
+#sloc# NO DUPLICATE FILE EXTENSIONS
+
+#sloc# AppleScript
+scpt AppleScript
+--
+(* *)
+
+#sloc# Assembly
+s
+#
+
+#sloc# Autohotkey
+ahk
+;
+/* */
+
+#sloc# Batch
+bat
+REM :: :
+
+
+#sloc# C
+c h
+//
+/* */
+
+#sloc# C++
+cpp hpp
+//
+/* */
+
+#sloc# C#
+g.cs g.i.cs designer.cs
+//
+/* */
+
+#sloc# FORTRAN 90
+f90
+!
+
+#sloc# Haskell
+hs
+--
+{- -}
+
+#sloc# J
+j
+NB.
+
+
+#sloc# Java
+java
+//
+/* */
+
+#sloc# JavaScript
+js
+//
+/* */
+
+#sloc# Common Lisp
+lisp cl
+;
+
+
+#sloc# Lua
+lua
+--
+--[[ ]]
+
+#sloc# Perl
+pl pm
+#
+=begin =cut
+
+#sloc# PHP
+php
+#
+/* */
+
+#sloc# Python
+py
+#
+""" """
+
+#sloc# Ruby
+rb
+#
+=begin =end
+
+#sloc# SQL
+sql
+--
+/* */
+
+#sloc# VisualBasic
+vb
+'
+
