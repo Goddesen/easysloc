@@ -7,6 +7,8 @@ Nested comments are not implemented.
 Assumes comments aren't placed haphazardly:
 Lines containing a block comment start or end character are counted as comment lines.
 example:
+``` C
 printf("Hello World!\n") /* comment comment comment
 * comment */ printf("Hello World!\n");
+```
 is counted as 2 comment lines.
